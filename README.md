@@ -1,2 +1,2 @@
 # C-programming-handbook-solutions
-Solutions to the exercises in the K&amp;R C programming handbook
+Solutions to some of the exercises in the K&R C programming handbook
